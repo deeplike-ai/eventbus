@@ -1,4 +1,4 @@
-module github.com/deeplike-ai/oss/eventbus
+module github.com/deeplike-ai/eventbus
 
 go 1.23.0
 
